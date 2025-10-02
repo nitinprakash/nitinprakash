@@ -75,6 +75,6 @@ If you find my projects useful, consider fueling my coffee ☕ or sponsoring my 
 Your support keeps me motivated to build more awesome stuff for you! 🙌  
 
 👉 [![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge)](https://paypal.me/nitintwo47)  
-👉 [![Sponsor](https://img.shields.io/badge/❤️-Sponsor%20Me-red?style=for-the-badge)](https://github.com/sponsors/NitinPrakash)  
+👉 [![Sponsor](https://img.shields.io/badge/❤️-Sponsor%20Me-red?style=for-the-badge)](https://github.com/sponsors/nitinprakash)  
 
 ---
