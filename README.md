@@ -32,18 +32,22 @@ On GitHub, I have a collection of repositories focused on utility libraries, plu
 
 Here are a few pinned or notable repositories:
 
-| Project | Description |
-|---|---|
-| **wc-thanks-redirect** | Redirect customers to a custom “Thank You” page after WooCommerce orders |
-| **slim-admin-panel** | A starter admin panel built with SlimPHP |
-| *(Add more projects you’re proud of here…)* | *Your brief description* |
+| Project | Description | Website |
+|---|---|---|
+| **Thank You Page for WooCommerce** | Redirect customers to a custom “Thank You” page after WooCommerce orders | [Visit](https://nitin247.com/plugin/thank-you-page-for-woocommerce/) |
+| **Place Order Without Payment for WooCommerce** | Allow customers to place orders without payment in WooCommerce | [Visit](https://nitin247.com/plugin/woocommerce-place-order-without-payment/) |
+| **Approve Orders for WooCommerce** | Review and approve orders before they are processed in WooCommerce | [Visit](https://neebplugins.com/plugin/approve-orders/) |
+| **Kanban Orders for WooCommerce** | Organize your WooCommerce orders into Kanban boards based on their statuses | [Visit](https://neebplugins.com/plugin/kanban-for-woocommerce/) |
+| **Product Author for WooCommerce** | allows admin to add Author to Woocommerce Product | [Visit](https://wordpress.org/plugins/wc-product-author/) |
+
+
 
 ---
 
 ## 📈 Stats & Recognition
 
-- 🏅 WordPress.org: Plugin developer with multiple active plugins including **Thank You Page for WooCommerce**, **Product Author for WooCommerce**, **Approve Orders for WooCommerce**, etc. 
-- 🏛️ Achievements: Arctic Code Vault Contributor, etc.
+- 🏅 WordPress.org: Plugin developer with multiple active plugins including **Thank You Page for WooCommerce**, **Product Author for WooCommerce**, **Approve Orders for WooCommerce**, **Kanban for WooCommerce** etc. 
+- 🏛️ Achievements: Technical Reviewer - Mastering WooCommerce
 
 ---
 
@@ -57,9 +61,20 @@ Here are a few pinned or notable repositories:
 
 ## 📬 Connect With Me
 
-- WordPress.org: [nitin247](https://profiles.wordpress.org/nitin247/) 
 - GitHub: [NitinPrakash](https://github.com/nitinprakash)
+- WordPress.org: [nitin247](https://profiles.wordpress.org/nitin247/) 
 - LinkedIn: [linkedin.com/in/nitin247/](https://www.linkedin.com/in/nitin247/)
 - Website: [nitin247.com](http://nitin247.com)
+
+---
+
+## ☕💖 Support My Work  
+
+I love building free & open-source WordPress tools that help the community 🚀  
+If you find my projects useful, consider fueling my coffee ☕ or sponsoring my work 💡.  
+Your support keeps me motivated to build more awesome stuff for you! 🙌  
+
+👉 [![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/yourusername)  
+👉 [![Sponsor](https://img.shields.io/badge/❤️-Sponsor%20Me-red?style=for-the-badge)](https://paypal.me/nitintwo47)  
 
 ---
