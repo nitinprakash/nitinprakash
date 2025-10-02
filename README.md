@@ -7,7 +7,7 @@
 
 I’m a passionate web developer specializing in WordPress plugin development, WooCommerce, and PHP-based solutions. I love building clean, modular, and maintainable code.  
 
-- 🔧 My toolbox: **PHP, WordPress, WooCommerce, JavaScript, jQuery, MySQL, HTML5, CSS3, Bootstrap**  
+- 🔧 My toolbox: **PHP, WordPress, WooCommerce, Laravel, JavaScript, jQuery, MySQL, HTML5, CSS3, Bootstrap**  
 - 🏗️ I build custom WordPress plugins from scratch, integrate APIs, and solve real-world problems  
 - 🏡 Working remotely from Lucknow, India  
 - 💬 I believe coding well is not just craft — it's art  
@@ -74,7 +74,7 @@ I love building free & open-source WordPress tools that help the community 🚀
 If you find my projects useful, consider fueling my coffee ☕ or sponsoring my work 💡.  
 Your support keeps me motivated to build more awesome stuff for you! 🙌  
 
-👉 [![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/yourusername)  
-👉 [![Sponsor](https://img.shields.io/badge/❤️-Sponsor%20Me-red?style=for-the-badge)](https://paypal.me/nitintwo47)  
+👉 [![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge)](https://paypal.me/nitintwo47)  
+👉 [![Sponsor](https://img.shields.io/badge/❤️-Sponsor%20Me-red?style=for-the-badge)](https://github.com/sponsors/NitinPrakash)  
 
 ---
