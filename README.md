@@ -19,7 +19,8 @@ I’m a passionate web developer specializing in WordPress plugin development, W
 I have authored and maintained several WordPress plugins, including:  
 
 - **Thank You Page for WooCommerce** — Redirect customers to a custom “Thank You” page after WooCommerce orders 
-- **Kanban for WooCommerce** — Organize your WooCommerce orders into Kanban boards based on their statuses  
+- **Kanban for WooCommerce** — Organize your WooCommerce orders into Kanban boards based on their statuses
+- **LokalPress Lite** — Quickly spin up a fully functional WordPress Dev site without manual server configuration
 - ...and more plugins actively used by customers and the community.  
 
 On WordPress.org, I’ve been active since August 2016 and my plugins have crossed **10k Active Installs** & **240K Downloads**.
