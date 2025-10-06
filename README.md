@@ -48,7 +48,7 @@ Here are a few pinned or notable repositories:
 ## 📈 Stats & Recognition
 
 - 🏅 WordPress.org: Plugin developer with multiple active plugins including **Thank You Page for WooCommerce**, **Product Author for WooCommerce**, **Approve Orders for WooCommerce**, **Kanban for WooCommerce** etc. 
-- 🏛️ Achievements: Technical Reviewer - Mastering WooCommerce
+- 🏛️ Achievements: **Technical Reviewer** - [Mastering WooCommerce](https://www.oreilly.com/library/view/mastering-woocommerce/9781835085288/)
 
 ---
 
